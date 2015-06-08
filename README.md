@@ -1,2 +1,3 @@
 # patrickfgriffith.github.io
-# public site
+
+My public site: http://patrickfgriffith.github.io 
