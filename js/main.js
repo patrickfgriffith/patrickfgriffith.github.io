@@ -2,7 +2,6 @@
 $( document ).ready(function() {
 
     var links = {
-ministry1,
         'dylan': 'https://interlude-a.akamaihd.net/player/dylan-desktop/Oak_player_as.swf?app_path=https://interlude-a.akamaihd.net/player/dylan-desktop/&project_url=https://interlude-a.akamaihd.net/player/dylan-desktop/config/config.dat',
         'aloe': 'https://content_s-a.akamaihd.net/player/lincoln_designs/Oak_player_as.swf?project_url=https://content_s-a.akamaihd.net/player/lincoln_designs/config/config_hudson.xml&app_path=https://content_s-a.akamaihd.net/player/lincoln_designs/',
         'dosequis':'https://content_s-a.akamaihd.net/docs/featured_projects/1.0/dosEquis/Oak_player_as.swf?project_url=https://content_s-a.akamaihd.net/docs/featured_projects/1.0/dosEquis/config/flash.xml&app_path=https://content_s-a.akamaihd.net/docs/featured_projects/1.0/dosEquis/',
